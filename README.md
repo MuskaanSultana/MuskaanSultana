@@ -1,177 +1,167 @@
-<h1 align="center">Hey, I'm Muskaan 👋</h1>
+<!-- Muskaan Sultana Shaik — GitHub Profile README -->
+<!-- Paste this file as MuskaanSultana/MuskaanSultana/README.md -->
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F78CA0&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Muskaan+Sultana+Shaik;MEng+Software+Engineer;Building+AI-powered+SaaS+%F0%9F%9A%80;LangChain+%C2%B7+Next.js+%C2%B7+AWS+Lambda" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  <b>Software Engineer · AI/ML Builder · MEng Software Engineering @ Carleton University</b><br>
-  <sub>Ottawa, ON · Open to full-time roles · PGWP work permit</sub>
+  <a href="https://linkedin.com/in/muskaansultana0707"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/MuskaanSultana"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:muskaan.sultana2002@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/MEng%20SWE-Jan%202026-8957E5?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open%20Work%20Permit-🇨🇦-2EA043?style=for-the-badge" />
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/muskaansultana0707"><img src="https://img.shields.io/badge/LinkedIn-muskaansultana0707-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
-  &nbsp;
-  <a href="mailto:muskaan.sultana2002@gmail.com"><img src="https://img.shields.io/badge/Email-muskaan.sultana2002%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" /></a>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-22c55e?style=flat" />
+  <img src="https://img.shields.io/badge/AWS%20ML%20Foundation-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/IBM%20ML%20PyTorch-1F70C1?style=flat-square&logo=ibm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Springer%20LNNS%202023-F78CA0?style=flat-square" />
+  <img src="https://img.shields.io/badge/Ottawa%2C%20ON-🍁-red?style=flat-square" />
 </p>
 
 ---
 
-## About Me
+## 🙋‍♀️ About Me
 
-I build AI-powered systems and full-stack products — from production SaaS to local-first agentic pipelines. My background spans backend engineering, GenAI tooling, and cloud infrastructure, with a focus on shipping things that actually work at scale.
-
-Currently finishing my **MEng in Software Engineering at Carleton University** (Jan. 2026), with 9 months of industry experience at **Kaar Technologies** (Java/Python, ERP systems) and a track record of building and deploying real products end-to-end.
-
----
-
-## Projects
-
-### 🎬 [VidiGraph AI](https://github.com/MuskaanSultana/vidigraph-ai)
-> AI-powered video generation SaaS — production-deployed
-
-Built a 4-stage async AI pipeline (Gemini → SDXL → Deepgram → Remotion) using **Inngest** for fault-tolerant background processing. Integrates 5 external AI services, renders MP4s via AWS Lambda, and ships with 3-tier subscription billing + CI/CD via GitHub Actions.
-
-`Next.js` `TypeScript` `AWS Lambda` `Inngest` `PostgreSQL` `Gemini API` `Deepgram` `Remotion` `Docker` `GitHub Actions`
+```yaml
+name: Muskaan Sultana Shaik
+role: Software Engineer (MEng · Jan 2026)
+location: Ottawa, ON (open to Vancouver · Toronto · Montréal · Remote)
+education:
+  - MEng Software Engineering · Carleton University (Jan 2026)
+  - BTech CSE · Vel Tech R&D Institute (CGPA 9.72/10 · Top ~3% cohort)
+currently: Available full-time immediately · Open Work Permit (PGWP)
+building: Production SaaS · AI pipelines · RAG systems
+research: ICRTC 2023 · Springer LNNS 600 (Peer-Reviewed)
+fun_fact: Shipped a 4-stage AI SaaS solo — zero failed pipeline runs in prod 🚀
+```
 
 ---
 
-### 🤖 [Local-First RAG Agent](https://github.com/MuskaanSultana/rag-agent)
-> Private document AI — no external API dependencies
+## 🛠️ Tech Stack
 
-Architected an agentic RAG pipeline using **LangChain + Ollama (Llama 3/Mistral)** with ChromaDB as the vector store. The LLM autonomously decides between internal knowledge and document retrieval based on prompt context. Achieved **92% Groundedness score** via DeepEval across 3 optimization cycles.
+**Languages**
+![Java](https://img.shields.io/badge/Java-F89820?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
-`Python` `LangChain` `Ollama` `ChromaDB` `DeepEval` `PyPDF`
+**Frontend & Backend**
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-05998B?style=flat-square&logo=fastapi&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
----
+**Cloud & DevOps**
+![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 
-### 💼 [Smart Talent Hire](https://github.com/MuskaanSultana/smart-talent-hire)
-> Multi-role hiring platform — Carleton course project
-
-A 3-user-type hiring platform (candidate / recruiter / admin) spanning 10+ pages and 5 modules. Built with a 2-person team; 44+ commits.
-
-`JavaScript` `Bootstrap 5.3` `HTML5` `CSS3` `Font Awesome`
-
----
-
-## Skills
-
-| | |
-|---|---|
-| **Languages** | Python, Java, JavaScript, TypeScript, SQL, C, C++, HTML, CSS |
-| **Frameworks** | Next.js, React, Node.js, LangChain, Scikit-learn |
-| **Cloud & DevOps** | AWS Lambda, AWS EKS, Docker, GitHub Actions, CI/CD |
-| **AI/ML** | Ollama, Gemini API, Replicate/SDXL, Deepgram, ChromaDB, DeepEval |
-| **Data** | PostgreSQL, Pandas, NumPy, R, Tableau, Power BI |
-| **Tools** | Git, Cursor, Claude Code, Figma |
-
----
-
-## Experience
-
-**Software Engineering Intern — Kaar Technologies** *(Nov. 2022 – Aug. 2023 · Chennai)*
-Java ERP tooling · Python data pipelines · ~15% production efficiency gains · zero-downtime deploys · 5+ engineer team
+**AI / ML**
+![LangChain](https://img.shields.io/badge/LangChain-1C3C5E?style=flat-square)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-E0B400?style=flat-square)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Ollama](https://img.shields.io/badge/Ollama-60A5FA?style=flat-square)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
 ---
 
-## Education
+## 🚀 Featured Projects
 
-🎓 **MEng Software Engineering** — Carleton University *(Jan. 2024 – Jan. 2026)*
-🎓 **BTech Computer Science** — Vel Tech R&D Institute *(2019 – 2023 · CGPA 9.72/10.0)*
+### 🎬 [VidiGraph AI](https://github.com/MuskaanSultana) — Full-Stack AI SaaS Platform
+> *Next.js · TypeScript · AWS Lambda · Inngest · PostgreSQL · Gemini API · GitHub Actions*
 
----
+Shipped a **4-stage async AI pipeline** (script → voiceover → image → video) integrating **5 external AI services** with fault-tolerant job orchestration via Inngest — **zero failed pipeline runs** in production.
 
-## Publication
-
-**Feature Over Exemplification Based Classification for Revelation of Hypothyroid**
-*ICRTC 2023 · Peer-Reviewed · Python, Scikit-learn*
-
----
-
-## Certifications
-
-- AWS Machine Learning Foundation
-- IBM Machine Learning with PyTorch
-
-----
-
-## ⏮ Featured Projects
-
-Here are top-tier  projects I have built that demonstrate my skills in Software Engineering, Full-stack Development, AI/ML, and DevOps.
-
-These are live repositories you can explore.
+- 🗃️ Built **10+ REST API endpoints** backed by **8+ PostgreSQL tables**
+- 💳 Implemented **3-tier subscription billing** with Clerk + real-time notifications
+- ⚙️ Automated full CI/CD via GitHub Actions; deployed serverless on **AWS Lambda**
+- 👩‍💻 Delivered end-to-end as **sole developer**
 
 ---
 
-### RAG Agent - Local-First AI
+### 🤖 [Local-First RAG Agent](https://github.com/MuskaanSultana) — Autonomous Document AI
+> *Python · LangChain · Ollama (Llama 3/Mistral) · ChromaDB · DeepEval*
 
-A private document AI system with no external API dependencies. Built an agentic RAG pipeline using **LangChain + Ollama (Llama 3/Mistral)** with ChromaDB as the vector store. Achieved **92% Groundedness score** via DeepEval.
+Privacy-first agentic pipeline where the LLM **autonomously routes** between internal knowledge and document retrieval — **0 external API dependencies**, full offline operation.
 
-`Python` `LangChain` `Ollama` `ChromaDB` `DeepEval` `PyPDF`
-
-[View Project](https://github.com/MuskaanSultana/rag-agent)
-
----
-
-### Smart Talent Hire
-
-A **3-user-type hiring platform** (candidate / recruiter / admin) spanning **10+ pages and 5 modules**. Built with a **2-person team** over **44+ commits**.
-
-`JavaScript` `Bootstrap 5.3` `HTML5` `CSS3` `Font Awesome`
-
-[View Project](https://github.com/MuskaanSultana/smart-talent-hire)
+- 🎯 Achieved **92% Groundedness** on automated DeepEval test suite
+- 🔁 3 optimization cycles iterating chunking strategies and embedding selection
+- 💰 Eliminated **100% of cloud API costs** · reduced query latency **~40%** via local caching
 
 ---
 
-### Spring Web Application
+### 👥 [Smart Talent Hire](https://github.com/MuskaanSultana) — Multi-Role Hiring Platform
+> *JavaScript · HTML5 · CSS3 · Bootstrap 5.3 · Git*
 
-A full-stack **Spring Boot web application** with REST APIs, PostgreSQL database integration, HTML/CSS/JS frontend, and Maven build system. Features include CRUD operations, form handling, and secure authentication.
+3-role (admin/recruiter/candidate) hiring platform across **10+ pages** and **5 functional modules**.
 
-`Java 17` `Spring Boot` `Spring MVC` `Hibernate` `PostgreSQL` `Maven` `HTML5` `CSS3` `JavaScript` `Thymeleaf`
-
-[View Project](https://github.com/MuskaanSultana/SpringWeb)
-
----
-
-### Spring Boot Application
-
-A **Spring Boot microservice** using JPA/Hibernate ORM, RESTful endpoints, and Spring Data repositories. Includes unit test coverage and Swagger API documentation.
-
-`Spring Boot` `Spring Data JPA` `Hibernate` `PostgreSQL` `JUnit` `Mockito` `Swagger` `REST APIs`
-
-[View Project](https://github.com/MuskaanSultana/SpringBoot)
+- 🔀 **44+ commits** on a 2-person team — met every sprint milestone on schedule
+- ✅ **100% test pass rate** on all pull requests before merging to main
+- 🎭 Role-based conditional UI logic for **6 applicant categories**
 
 ---
 
-### LabSeven - Java Web App
+## 📄 Research & Publication
 
-A **JSP/Servlet-based web application** built with Java EE standards. Demonstrates full-stack web development with database connectivity and modern backend architecture.
+> **Feature Over Exemplification-Based Classification for Revelation of Hypothyroid**
+> ICRTC 2023 · Springer LNNS 600 · Peer-Reviewed
 
-`Java` `JSP` `Servlets` `JDBC` `MySQL` `Tomcat` `HTML5` `CSS3`
+| Metric | Result |
+|--------|--------|
+| Dataset | 3,164 patient records · 24 features |
+| Class Imbalance | 91.7% vs 8.3% (hypothyroid) |
+| Method | Random Forest + ADASYN oversampling |
+| Accuracy | **100%** (ADASYN) · **99%+** (SMOTE/Borderline on 13 classifiers) |
 
-[View Project](https://github.com/MuskaanSultana/LabSeven)
-
----
-
-### Lab7 - Java Application
-
-A **core Java application** showcasing OOP principles, data structures, and clean code practices. Built as part of university coursework with comprehensive test coverage.
-
-`Java` `JUnit` `Maven` `OOP` `Data Structures`
-
-[View Project](https://github.com/MuskaanSultana/Lab7)
+🔗 [Read on Springer](https://doi.org/10.1007/978-981-19-8825-7_24)
 
 ---
 
-<br>
-
-## Let's Connect
-
-|  |  | |---|---|  
-| 🎓 | MEng Software Engineering - Carleton University | 
-| 🌍 | Ottawa, ON - Open to Remote across Canada | 
-| 📧 | muskaan.sultana2002@gmail.com |  
-| 💼 | linkedin.com/in/muskaansultana0707 |  
-
+## 📈 GitHub Stats
 
 <p align="center">
-<sub>Available full-time immediately · Ottawa, ON · Open to remote across Canada</sub>
+  <img src="https://github-readme-stats.vercel.app/api?username=MuskaanSultana&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuskaanSultana&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuskaanSultana&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🏆 Certifications
+
+| Cert | Issuer |
+|------|--------|
+| ☁️ AWS Machine Learning Foundation | Amazon Web Services |
+| 🤖 Machine Learning with PyTorch | IBM |
+
+---
+
+## 🤝 Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/muskaansultana0707">
+    <img src="https://img.shields.io/badge/LinkedIn%20—%20Let's%20connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:muskaan.sultana2002@gmail.com">
+    <img src="https://img.shields.io/badge/Email%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MuskaanSultana&color=f78ca0&style=flat-square&label=Profile+Views" />
+  <br/><br/>
+  <em>⭐ Star a repo if you find it useful — it means a lot!</em>
 </p>
