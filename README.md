@@ -165,19 +165,13 @@ A **core Java application** showcasing OOP principles, data structures, and clea
 
 ## Let's Connect
 
-| | |  
-|---|---|  
-| 🎓
-| 🌍
+|  |  | |---|---|  
+| 🎓 | MEng Software Engineering - Carleton University | 
+| 🌍 | Ottawa, ON - Open to Remote across Canada | 
 | 📧 | muskaan.sultana2002@gmail.com |  
 | 💼 | linkedin.com/in/muskaansultana0707 |  
 
 
 <p align="center">
 <sub>Available full-time immediately · Ottawa, ON · Open to remote across Canada</sub>
-</p>
---
-
-<p align="center">
-  <sub>Available full-time immediately · Ottawa, ON · Open to remote across Canada</sub>
 </p>
