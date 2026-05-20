@@ -91,7 +91,92 @@ Java ERP tooling · Python data pipelines · ~15% production efficiency gains ·
 - AWS Machine Learning Foundation
 - IBM Machine Learning with PyTorch
 
+----
+
+## ⏮ Featured Projects
+
+Here are top-tier  projects I have built that demonstrate my skills in Software Engineering, Full-stack Development, AI/ML, and DevOps.
+
+These are live repositories you can explore.
+
 ---
+
+### RAG Agent - Local-First AI
+
+A private document AI system with no external API dependencies. Built an agentic RAG pipeline using **LangChain + Ollama (Llama 3/Mistral)** with ChromaDB as the vector store. Achieved **92% Groundedness score** via DeepEval.
+
+`Python` `LangChain` `Ollama` `ChromaDB` `DeepEval` `PyPDF`
+
+[View Project](https://github.com/MuskaanSultana/rag-agent)
+
+---
+
+### Smart Talent Hire
+
+A **3-user-type hiring platform** (candidate / recruiter / admin) spanning **10+ pages and 5 modules**. Built with a **2-person team** over **44+ commits**.
+
+`JavaScript` `Bootstrap 5.3` `HTML5` `CSS3` `Font Awesome`
+
+[View Project](https://github.com/MuskaanSultana/smart-talent-hire)
+
+---
+
+### Spring Web Application
+
+A full-stack **Spring Boot web application** with REST APIs, PostgreSQL database integration, HTML/CSS/JS frontend, and Maven build system. Features include CRUD operations, form handling, and secure authentication.
+
+`Java 17` `Spring Boot` `Spring MVC` `Hibernate` `PostgreSQL` `Maven` `HTML5` `CSS3` `JavaScript` `Thymeleaf`
+
+[View Project](https://github.com/MuskaanSultana/SpringWeb)
+
+---
+
+### Spring Boot Application
+
+A **Spring Boot microservice** using JPA/Hibernate ORM, RESTful endpoints, and Spring Data repositories. Includes unit test coverage and Swagger API documentation.
+
+`Spring Boot` `Spring Data JPA` `Hibernate` `PostgreSQL` `JUnit` `Mockito` `Swagger` `REST APIs`
+
+[View Project](https://github.com/MuskaanSultana/SpringBoot)
+
+---
+
+### LabSeven - Java Web App
+
+A **JSP/Servlet-based web application** built with Java EE standards. Demonstrates full-stack web development with database connectivity and modern backend architecture.
+
+`Java` `JSP` `Servlets` `JDBC` `MySQL` `Tomcat` `HTML5` `CSS3`
+
+[View Project](https://github.com/MuskaanSultana/LabSeven)
+
+---
+
+### Lab7 - Java Application
+
+A **core Java application** showcasing OOP principles, data structures, and clean code practices. Built as part of university coursework with comprehensive test coverage.
+
+`Java` `JUnit` `Maven` `OOP` `Data Structures`
+
+[View Project](https://github.com/MuskaanSultana/Lab7)
+
+---
+
+<br>
+
+## Let's Connect
+
+| | |  
+|---|---|  
+| 🎓
+| 🌍
+| 📧 | muskaan.sultana2002@gmail.com |  
+| 💼 | linkedin.com/in/muskaansultana0707 |  
+
+
+<p align="center">
+<sub>Available full-time immediately · Ottawa, ON · Open to remote across Canada</sub>
+</p>
+--
 
 <p align="center">
   <sub>Available full-time immediately · Ottawa, ON · Open to remote across Canada</sub>
